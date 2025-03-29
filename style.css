@@ -98,22 +98,26 @@
   
   .socials {
     margin-top: 2vh;
+    text-decoration: none;
   }
   
   .socials a img {
     width: 2.5vw;
     transition: transform 0.3s ease;
     border-radius: 0.5vw;
+    text-decoration: none;
   }
   
   .socials a img:hover {
     transform: scale(1.2);
+    text-decoration: none;
   }
   
   .socials img {
     width: 2.5vw;
     margin: 0 0.5vw;
     vertical-align: middle;
+    text-decoration: none;
   }
   
   .about-box {
